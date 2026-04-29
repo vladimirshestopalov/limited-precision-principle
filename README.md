@@ -14,7 +14,7 @@ The paper examines the compatibility of this principle with fine-tuning argument
 
 ## Manuscript
 
-[Read PDF](./LPP.pdf)
+[Read PDF](./LPP_v1_ru.pdf)
 
 ## Core statement
 
